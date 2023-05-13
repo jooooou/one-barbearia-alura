@@ -281,4 +281,8 @@ td,th{
 	.contato{
 		margin:10%;
 	}
+
+	.enviar{
+		width:100%;
+	}
 }
